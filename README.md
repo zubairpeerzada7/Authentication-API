@@ -1,6 +1,6 @@
-# University-API
+# Authentication-API
 
-University booking time slots API
+
 
 # Start:
 
